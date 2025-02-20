@@ -1,2 +1,2 @@
 pgvector/pgvector:0.7.0-pg15
-xprobe/xinference
+
