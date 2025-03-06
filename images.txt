@@ -3,3 +3,8 @@ mongo:5.0.18
 ghcr.io/songquanpeng/one-api:v0.6.7
 gpustack/gpustack
 nvidia/cuda
+ghcr.io/open-webui/open-webui:cuda
+ghcr.io/open-webui/open-webui:main
+maildev/maildev
+redis:3-alpine
+postgres:14-alpine
