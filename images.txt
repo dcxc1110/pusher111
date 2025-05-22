@@ -1,1 +1,2 @@
 scrapinghub/portia:latest
+xprobe_xinference/xinference:latest
