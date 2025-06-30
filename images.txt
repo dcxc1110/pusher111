@@ -1,2 +1,3 @@
-scrapinghub/portia:latest
-xprobe/xinference:latest
+postgres:16
+prom/prometheus
+ghcr.io/berriai/litellm:main-stable
